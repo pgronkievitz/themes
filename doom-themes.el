@@ -42,6 +42,7 @@
 ;;   + `doom-homage-white' (added by [mskorzhinskiy])
 ;;   + `doom-homage-black': (added by [mskorzhinskiy])
 ;;   + `doom-horizon' (added by karetsu)
+;;   + `doom-horizon-light' (added by pgronkievitz)
 ;;   + `doom-Iosvkem' (added by neutaaaaan)
 ;;   + `doom-ir-black' (added by legendre6891)
 ;;   + `doom-laserwave' (added by hyakt)
